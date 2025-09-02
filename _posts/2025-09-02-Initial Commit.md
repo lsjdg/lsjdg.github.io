@@ -7,6 +7,6 @@ math: true
 toc: true
 pin: true
 image:
-  path: ../docs/toothless.png
+  path: assets/imgs/toothless.png
   alt: Toothless
 ---
